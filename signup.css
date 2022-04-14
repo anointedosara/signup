@@ -203,6 +203,14 @@ body {
 
 }
 
+input::placeholder {
+  font-family: 'Roobert';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 110%;
+}
+
 .div4 input:focus {
   border-bottom: 3px solid #272262;
 }
