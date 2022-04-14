@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
 * {
   box-sizing: border-box;
 }
@@ -35,10 +37,10 @@ body {
 .inner {
   position: absolute;
   height: 172px;
-  left: 13%;
-  right: 60%;
+  left: 10%;
+  right: 58%;
   top: 86%;
-  font-family: 'Poppins';
+  font-family: 'poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 36px;
@@ -83,9 +85,9 @@ body {
     position: absolute;
     height: 172px;
     left: 10%;
-    right: 53%;
-    top: 82%;
-  
+    right: 55%;
+    top: 60%;
+    font-size: 30px;
     color: #FFFFFF;
   
     /* subtle shadow1 */
@@ -125,7 +127,7 @@ body {
     left: 0%;
     right: 0%;
     top: 25%;
-    max-width: 320px;
+    max-width: 370px;
     margin: 0 auto;
     padding: 10px;
     font-size: 30px;
@@ -139,7 +141,7 @@ body {
 }
 
 .heading {
-  font-family: 'Roobert';
+  font-family: 'roobert', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
@@ -154,7 +156,7 @@ body {
 }
 
 .small-text {
-  font-family: "Roobert";
+  font-family: 'roobert', sans-serif;
   font-style: normal;
   font-weight: 300;
   font-size: 26px;
@@ -173,7 +175,7 @@ body {
 
 .div4 {
   width: 46%;
-  font-family: 'Roobert';
+  font-family: 'roobert', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
@@ -188,7 +190,7 @@ body {
 }
 
 .div4 input {
-  font-family: 'Roobert';
+  font-family: 'roobert', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 24px;
@@ -204,10 +206,10 @@ body {
 }
 
 input::placeholder {
-  font-family: 'Roobert';
+  font-family: 'roobert', sans-serif;
   font-style: normal;
-  font-weight: 400;
-  font-size: 24px;
+  font-weight: 300;
+  font-size: 22px;
   line-height: 110%;
 }
 
@@ -217,7 +219,7 @@ input::placeholder {
 
 .div5 {
   width: 46%;
-  font-family: 'Roobert';
+  font-family: 'roobert', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
@@ -231,7 +233,7 @@ input::placeholder {
 }
 
 .div5 input {
-  font-family: 'Roobert';
+  font-family: 'roobert', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 24px;
@@ -250,7 +252,7 @@ input::placeholder {
 }
 
 .div6 {
-  font-family: 'Roobert';
+  font-family: 'roobert', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
@@ -265,7 +267,7 @@ input::placeholder {
 }
 
 .div6 input {
-  font-family: 'Roobert';
+  font-family: 'roobert', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 24px;
@@ -284,7 +286,7 @@ input::placeholder {
 }
 
 .div7 {
-  font-family: 'Roobert';
+  font-family: 'roobert', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
@@ -299,7 +301,7 @@ input::placeholder {
 }
 
 .div7 input {
-  font-family: 'Roobert';
+  font-family: 'roobert', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 24px;
@@ -318,7 +320,7 @@ input::placeholder {
 }
 
 .div8 {
-  font-family: 'Roobert';
+  font-family: 'roobert', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
@@ -333,7 +335,7 @@ input::placeholder {
 }
 
 .div8 input {
-  font-family: 'Roobert';
+  font-family: 'roobert', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 24px;
@@ -360,7 +362,7 @@ input::placeholder {
 }
 
 .div10 {
-  font-family: 'Roobert';
+  font-family: 'roobert', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 22px;
@@ -427,7 +429,7 @@ input::placeholder {
 }
 
 .div9 p {
-  font-family: 'Roobert';
+  font-family: 'roobert', sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 22px;
@@ -442,7 +444,7 @@ line-height: 110%;
 .div11 {
   background: #3DB0FF;
   border-radius: 8px;
-  font-family: 'Roobert';
+  font-family: 'roobert', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 30px;
@@ -470,7 +472,7 @@ line-height: 110%;
 }
 
 .div14 {
-  font-family: 'Roobert';
+  font-family: 'roobert', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 21px;
@@ -630,7 +632,7 @@ line-height: 110%;
   }
   
   .div14 {
-    font-family: 'Roobert';
+    font-family: 'roobert', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
